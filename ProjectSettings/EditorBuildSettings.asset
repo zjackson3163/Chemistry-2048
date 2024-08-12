@@ -6,6 +6,15 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/Chemistry 2048.unity
+    path: Assets/Scenes/Main Menu.unity
+    guid: 832d874cba43b9c4c92870fcbbc9f142
+  - enabled: 1
+    path: Assets/Scenes/Level Select.unity
+    guid: eabe2b0db9c5bf644949b2bad438fc00
+  - enabled: 1
+    path: Assets/Scenes/Level One.unity
+    guid: c0c38bddc8c933e4d927005490ab8966
+  - enabled: 1
+    path: Assets/Scenes/Level Two.unity
     guid: 2cda990e2423bbf4892e6590ba056729
   m_configObjects: {}
