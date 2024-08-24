@@ -23,6 +23,7 @@ public class TileBoard : MonoBehaviour
 
     public void Start()
     {
+        ClearBoard();
         CreateTile();
         CreateTile();
     }
@@ -61,19 +62,23 @@ public class TileBoard : MonoBehaviour
         {
             if (Input.GetKeyDown(KeyCode.W) || Input.GetKeyDown(KeyCode.UpArrow))
             {
-                MoveTiles(Vector2Int.up, 0, 1, 1, 1);
+               // MoveTiles(Vector2Int.up, 0, 1, 1, 1);
+                MoveTiles(Vector2Int.left, 1, 1, 0, 1);
             }
             else if (Input.GetKeyDown(KeyCode.D) || Input.GetKeyDown(KeyCode.RightArrow))
             {
-                MoveTiles(Vector2Int.right, grid.width - 2, -1, 0, 1);
+               // MoveTiles(Vector2Int.right, grid.width - 2, -1, 0, 1);
+                MoveTiles(Vector2Int.down, 0, 1, grid.height - 2, -1);
             }
             else if (Input.GetKeyDown(KeyCode.S) || Input.GetKeyDown(KeyCode.DownArrow))
             {
-                MoveTiles(Vector2Int.down, 0, 1, grid.height - 2, -1);
+               // MoveTiles(Vector2Int.down, 0, 1, grid.height - 2, -1);
+                MoveTiles(Vector2Int.right, grid.width - 2, -1, 0, 1);
             }
             else if (Input.GetKeyDown(KeyCode.A) || Input.GetKeyDown(KeyCode.LeftArrow))
             {
-                MoveTiles(Vector2Int.left, 1, 1, 0, 1);
+               // MoveTiles(Vector2Int.left, 1, 1, 0, 1);
+                MoveTiles(Vector2Int.up, 0, 1, 1, 1);
             }
         }
 
