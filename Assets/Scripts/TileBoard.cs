@@ -1,3 +1,4 @@
+using System;
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
@@ -21,12 +22,7 @@ public class TileBoard : MonoBehaviour
 
     }
 
-    public void Start()
-    {
-        ClearBoard();
-        CreateTile();
-        CreateTile();
-    }
+   
 
     public void ClearBoard()
     {
@@ -193,7 +189,7 @@ public class TileBoard : MonoBehaviour
         if (CheckForGameOver())
         {
             gameManager.GameOver();
-        }
+            UnityEngine.Debug.Log("gameover");        }
     }
 
         private bool CheckForGameOver()
