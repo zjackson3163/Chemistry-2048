@@ -1,3 +1,7 @@
+Current bugs...
+- Left/Up Arrow Switched
+- Right/Down Arrow Switched
+
 Upcoming Features...
 -  ✅ Fixing Fluorine Sprite (8/11)
 -  "How to play" screen
