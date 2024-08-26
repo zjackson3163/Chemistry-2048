@@ -428,6 +428,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   board: {fileID: 1668652189}
   gameOver: {fileID: 1742075095}
+  gameWon: {fileID: 0}
 --- !u!4 &32324302
 Transform:
   m_ObjectHideFlags: 0
@@ -1084,7 +1085,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!114 &301807181
 MonoBehaviour:
   m_ObjectHideFlags: 0

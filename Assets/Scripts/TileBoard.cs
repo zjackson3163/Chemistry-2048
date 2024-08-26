@@ -22,8 +22,6 @@ public class TileBoard : MonoBehaviour
 
     }
 
-   
-
     public void ClearBoard()
     {
         foreach (var cell in grid.cells)
@@ -189,7 +187,7 @@ public class TileBoard : MonoBehaviour
         if (CheckForGameOver())
         {
             gameManager.GameOver();
-            UnityEngine.Debug.Log("gameover");        }
+        }
     }
 
         private bool CheckForGameOver()

@@ -8,6 +8,7 @@ public class GameManager : MonoBehaviour
 {
     public TileBoard board;
     public CanvasGroup gameOver;
+    public CanvasGroup gameWon;
 
     private void Start()
     {
@@ -18,7 +19,6 @@ public class GameManager : MonoBehaviour
     {
         gameOver.alpha = 0f;
         gameOver.interactable = false;
-
         board.ClearBoard();
         board.CreateTile();
         board.CreateTile();
