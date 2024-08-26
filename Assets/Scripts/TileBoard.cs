@@ -13,6 +13,7 @@ public class TileBoard : MonoBehaviour
     private TileGrid grid;
     private List<Tile> tiles;
     private bool waiting;
+    public float highestElementNum;
 
     private void Awake()
     {
@@ -148,6 +149,11 @@ public class TileBoard : MonoBehaviour
         //move image up 1
 
         b.setState(tileStates[index]);
+
+        if (index == highestElementNum)
+        {
+            gameManager.GameWon();
+        }
     }
 
     private int IndexOf(TileState state)
@@ -189,6 +195,11 @@ public class TileBoard : MonoBehaviour
             gameManager.GameOver();
         }
     }
+
+       /* private bool CheckForGameWon() 
+        {
+            //check each sprite and see if sprite in sprite renderer is set to 
+        }*/
 
         private bool CheckForGameOver()
         {

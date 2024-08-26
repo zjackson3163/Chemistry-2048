@@ -19,6 +19,8 @@ public class GameManager : MonoBehaviour
     {
         gameOver.alpha = 0f;
         gameOver.interactable = false;
+        gameWon.alpha = 0f;
+        gameWon.interactable = false;
         board.ClearBoard();
         board.CreateTile();
         board.CreateTile();
@@ -27,10 +29,16 @@ public class GameManager : MonoBehaviour
 
     public void GameOver()
     {
-
         gameOver.interactable = true;
         board.enabled = false;  
         StartCoroutine(Fade(gameOver, 1f, 1f));
+    }
+
+    public void GameWon()
+    {
+        gameWon.interactable = true;
+        board.enabled = false;
+        StartCoroutine(Fade(gameWon, 1f, 1f));
     }
 
     private IEnumerator Fade(CanvasGroup canvasGroup, float to, float delay)
