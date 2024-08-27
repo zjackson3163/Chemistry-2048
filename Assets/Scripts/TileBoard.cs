@@ -9,7 +9,7 @@ public class TileBoard : MonoBehaviour
     public GameManager gameManager;
     public Tile tilePrefab;
     public TileState[] tileStates;
-    public Sprite[] tileSprites;
+    //public Sprite[] tileSprites;
     private TileGrid grid;
     private List<Tile> tiles;
     private bool waiting;

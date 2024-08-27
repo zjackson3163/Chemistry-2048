@@ -9,12 +9,87 @@ EditorBuildSettings:
     path: Assets/Scenes/Main Menu.unity
     guid: 832d874cba43b9c4c92870fcbbc9f142
   - enabled: 1
-    path: Assets/Scenes/Level Select.unity
+    path: Assets/Scenes/Difficulty.unity
+    guid: 9b1783a06d59a6f4d91ca025c979a47b
+  - enabled: 1
+    path: Assets/Scenes/Level Select - Easy.unity
     guid: eabe2b0db9c5bf644949b2bad438fc00
   - enabled: 1
-    path: Assets/Scenes/Level One.unity
+    path: Assets/Scenes/Level Select - Medium.unity
+    guid: 46d41c5ba357d36458c6e38bf08e307f
+  - enabled: 1
+    path: Assets/Scenes/Level Select - Hard.unity
+    guid: b9587153b37f27b4188f531610734113
+  - enabled: 1
+    path: Assets/Scenes/Level 1 - Easy.unity
     guid: c0c38bddc8c933e4d927005490ab8966
   - enabled: 1
-    path: Assets/Scenes/Level Two.unity
+    path: Assets/Scenes/Level 2 - Easy 1.unity
+    guid: 69196f136e66c844faa51b028fea5d70
+  - enabled: 1
+    path: Assets/Scenes/Level 3 - Easy 2.unity
+    guid: c67d464498599f64ca549a29d3fc54bd
+  - enabled: 1
+    path: Assets/Scenes/Level 4 - Easy 3.unity
+    guid: 497b47548185fa641af5f8930c815a50
+  - enabled: 1
+    path: Assets/Scenes/Level 5 - Easy 4.unity
+    guid: fea8ddb9b3c256544ade1ef6e796c320
+  - enabled: 1
+    path: Assets/Scenes/Level 6 - Easy 5.unity
+    guid: 39a183e12ef5aaa40a34799986198bf3
+  - enabled: 1
+    path: Assets/Scenes/Level 7 - Easy 6.unity
+    guid: e95a36db139e63748942eaca06624e10
+  - enabled: 1
+    path: Assets/Scenes/Level 8 - Easy 7.unity
+    guid: d758d09346b22484ebaf60ca885966c7
+  - enabled: 1
+    path: Assets/Scenes/Level 9 - Easy 8.unity
+    guid: 267d8f842e765db4e9e3f3ca93c5da70
+  - enabled: 1
+    path: Assets/Scenes/Level 10 - Easy 9.unity
+    guid: e8b3f4104fcb37a4a8c35f7758a0a8fa
+  - enabled: 1
+    path: Assets/Scenes/Level 11 - Easy 10.unity
+    guid: 93f80b04264877345bdd12b564c3d9ee
+  - enabled: 1
+    path: Assets/Scenes/Level 12 - Easy 11.unity
+    guid: a9c25634c9490f4479981418edb7daf7
+  - enabled: 1
+    path: Assets/Scenes/Level 13 - Easy 12.unity
+    guid: d57e30db6d2ffc5429d4c1d87a6da0d1
+  - enabled: 1
+    path: Assets/Scenes/Level 14 - Easy 13.unity
+    guid: b63316f39e3cc41448a136ae2d54e732
+  - enabled: 1
+    path: Assets/Scenes/Level 15 - Easy 14.unity
+    guid: a9abc45b70eb48d4a813c8043168a5b3
+  - enabled: 1
+    path: Assets/Scenes/Level 16 - Easy 15.unity
+    guid: 138167347c4e0d342a9ae53325411aa5
+  - enabled: 1
+    path: Assets/Scenes/Level 17 - Easy 16.unity
+    guid: 083c731366c2f0f43b17df5f711d90e8
+  - enabled: 1
+    path: Assets/Scenes/Level 18 - Easy 17.unity
+    guid: 966a0d8682c054647b22f36005ef294d
+  - enabled: 1
+    path: Assets/Scenes/Level 19 - Easy 18.unity
+    guid: 87aa5a1d79d0ee246956b017e163a195
+  - enabled: 1
+    path: Assets/Scenes/Level 20 - Easy 19.unity
+    guid: aa660252859ba3a4d992adc8e070a3c2
+  - enabled: 1
+    path: Assets/Scenes/Level 21 - Easy 20.unity
+    guid: ecd9b8b91a1900749b331102063d9689
+  - enabled: 1
+    path: Assets/Scenes/Level 22 - Easy 21.unity
+    guid: efe74b5ce77ab0b499694f7a60b4da86
+  - enabled: 1
+    path: Assets/Scenes/Level 23 - Easy.unity
     guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/Infinity.unity
+    guid: 479ae539911e0f04aabf7ec93e527020
   m_configObjects: {}
