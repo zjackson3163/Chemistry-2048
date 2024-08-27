@@ -149,6 +149,7 @@ public class TileBoard : MonoBehaviour
         //move image up 1
 
         b.setState(tileStates[index]);
+        gameManager.IncreaseScore((index + 1) * 10);
 
         if (index == highestElementNum)
         {

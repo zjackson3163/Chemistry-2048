@@ -3,12 +3,15 @@ using System.Collections.Generic;
 using System.ComponentModel;
 using System.Timers;
 using UnityEngine;
+using TMPro;    
 
 public class GameManager : MonoBehaviour
 {
     public TileBoard board;
     public CanvasGroup gameOver;
     public CanvasGroup gameWon;
+    public TextMeshProUGUI scoreText;
+    private int score;
 
     private void Start()
     {
@@ -21,6 +24,8 @@ public class GameManager : MonoBehaviour
         gameOver.interactable = false;
         gameWon.alpha = 0f;
         gameWon.interactable = false;
+
+        setScore(0);
         board.ClearBoard();
         board.CreateTile();
         board.CreateTile();
@@ -58,4 +63,17 @@ public class GameManager : MonoBehaviour
 
         canvasGroup.alpha = to;
     }
+
+    public void IncreaseScore(int points)
+    {
+        setScore(points + score);
+    }
+
+    private void setScore(int score)
+    {
+        this.score = score;
+        scoreText.text = score.ToString();
+    }
+
+
 }
