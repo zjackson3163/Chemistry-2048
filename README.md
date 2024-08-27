@@ -1,5 +1,5 @@
 Current bugs...
-- None? (that I know of)
+- weird ui for game over and level complete screens
 
 Upcoming Features...
 -  ✅ Fixing Fluorine Sprite (8/11)
