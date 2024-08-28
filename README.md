@@ -1,5 +1,5 @@
 Current bugs...
-- weird ui for game over and level complete screens
+- None?
 
 Upcoming Features...
 -  ✅ Fixing Fluorine Sprite (8/11)
@@ -9,5 +9,9 @@ Upcoming Features...
 -  ✅ "Game Over" screen (8/24)
 -  ✅ "Level Complete" screen (8/25)
 -  ✅ Levels screen (8/11)
--  16 new levels
+-  ✅ Difficulties (Easy, Medium, Hard, and Infinity) (8/25)
+-  23 Easy Levels
+-  16 Medium Levels
+-  10 Hard Levels
+-  ✅ Infinity Level (8/26)
 -  Elements web page to see all elements unlocked during gameplay
