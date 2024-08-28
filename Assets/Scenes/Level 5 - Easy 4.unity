@@ -765,9 +765,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: '9. Flourine
-
-'
+  m_text: 24. Chromium
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 41c5586de25d05340a4c905cfb730809, type: 2}
   m_sharedMaterial: {fileID: 2128287445655782808, guid: 41c5586de25d05340a4c905cfb730809, type: 2}
@@ -2885,9 +2883,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: '7. Nitrogen
-
-'
+  m_text: 22. Titanium
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 41c5586de25d05340a4c905cfb730809, type: 2}
   m_sharedMaterial: {fileID: 2128287445655782808, guid: 41c5586de25d05340a4c905cfb730809, type: 2}
@@ -3428,7 +3424,7 @@ MonoBehaviour:
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
-          m_IntArgument: 3
+          m_IntArgument: 10
           m_FloatArgument: 0
           m_StringArgument: 
           m_BoolArgument: 0
@@ -3753,9 +3749,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: '6. Carbon
-
-'
+  m_text: 21. Scandium
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 41c5586de25d05340a4c905cfb730809, type: 2}
   m_sharedMaterial: {fileID: 2128287445655782808, guid: 41c5586de25d05340a4c905cfb730809, type: 2}
@@ -4437,7 +4431,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -0.0000066757, y: -35}
+  m_AnchoredPosition: {x: -37.34, y: -35}
   m_SizeDelta: {x: 300, y: 218}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!1 &1080838688
@@ -4834,7 +4828,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -22.3, y: -110.7998}
+  m_AnchoredPosition: {x: 0.0001220703, y: -110.7998}
   m_SizeDelta: {x: 300, y: 50}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1097529242
@@ -4857,9 +4851,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: '10. Neon
-
-'
+  m_text: 25. Manganese
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 41c5586de25d05340a4c905cfb730809, type: 2}
   m_sharedMaterial: {fileID: 2128287445655782808, guid: 41c5586de25d05340a4c905cfb730809, type: 2}
@@ -5235,7 +5227,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: 'Level 2 Elements:'
+  m_text: 'Level 5 Elements:'
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 5879d4b8da9a6ce42a52cdfd9933477e, type: 2}
   m_sharedMaterial: {fileID: 1198209488231532167, guid: 5879d4b8da9a6ce42a52cdfd9933477e, type: 2}
@@ -6052,9 +6044,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: '8. Oxygen
-
-'
+  m_text: 23. Vanadium
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 41c5586de25d05340a4c905cfb730809, type: 2}
   m_sharedMaterial: {fileID: 2128287445655782808, guid: 41c5586de25d05340a4c905cfb730809, type: 2}
@@ -6164,22 +6154,11 @@ MonoBehaviour:
   gameManager: {fileID: 32324301}
   tilePrefab: {fileID: -7753836400409468237, guid: ef60edd81f3e9394b8229bfd5b2e874a, type: 3}
   tileStates:
-  - {fileID: 11400000, guid: 9d0bda3856343b54e9dd3b3a54f803ab, type: 2}
-  - {fileID: 11400000, guid: 9dc18b1395f9dc84e8334d57cd08bdd1, type: 2}
-  - {fileID: 11400000, guid: e9ec3ac6d7b6c5441b62b52017b3e2a8, type: 2}
-  - {fileID: 11400000, guid: dbcdf48ca7e15384685ce4aace963525, type: 2}
-  - {fileID: 11400000, guid: 2ecb5fa3c92281a4a93404b8dcc574ad, type: 2}
-  tileSprites:
-  - {fileID: 21300000, guid: 0fee76c3a804388419e5f6cc0cb6e697, type: 3}
-  - {fileID: 21300000, guid: 8ec9c22c0a1eda848987274e8bb8be43, type: 3}
-  - {fileID: 21300000, guid: 9377df70f659006498856cdff0cd1f13, type: 3}
-  - {fileID: 21300000, guid: 46784b3a5c1690f4a99839d23edc8124, type: 3}
-  - {fileID: 21300000, guid: 3640a057b36638247b2ec08d0cdcef03, type: 3}
-  - {fileID: 21300000, guid: b58448e84f0723d47b690295a59400b3, type: 3}
-  - {fileID: 21300000, guid: 0eb04fcaeff7eea448fc371bbeefe308, type: 3}
-  - {fileID: 21300000, guid: fd20d7be4f1b3214db23cbedb0d2a14c, type: 3}
-  - {fileID: 21300000, guid: a26a7c5c1370219439e4e2db9733e1ae, type: 3}
-  - {fileID: 21300000, guid: 25a561b58374c434b835135a8e1bfb97, type: 3}
+  - {fileID: 11400000, guid: 36b1c3a1ab7e85e45aa84b2faf39668f, type: 2}
+  - {fileID: 11400000, guid: 86f2f7f91b725c742bc36461963a6c36, type: 2}
+  - {fileID: 11400000, guid: c2ce29665c1558642ad8ed59c826a66a, type: 2}
+  - {fileID: 11400000, guid: 71761e21bae1cde4385c92992fd0ae75, type: 2}
+  - {fileID: 11400000, guid: 9c3969d227393864ba5a9eadf53e559d, type: 2}
   highestElementNum: 4
 --- !u!223 &1668652190
 Canvas:
@@ -6351,7 +6330,7 @@ CanvasGroup:
   m_Enabled: 1
   m_Alpha: 1
   m_Interactable: 1
-  m_BlocksRaycasts: 1
+  m_BlocksRaycasts: 0
   m_IgnoreParentGroups: 0
 --- !u!114 &1711365771
 MonoBehaviour:
@@ -6458,7 +6437,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   m_Material: {fileID: 0}
   m_Color: {r: 0.8490566, g: 0.6047526, b: 0.8085362, a: 0.83137256}
-  m_RaycastTarget: 1
+  m_RaycastTarget: 0
   m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
   m_Maskable: 1
   m_OnCullStateChanged:

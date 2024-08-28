@@ -3428,7 +3428,7 @@ MonoBehaviour:
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
-          m_IntArgument: 3
+          m_IntArgument: 7
           m_FloatArgument: 0
           m_StringArgument: 
           m_BoolArgument: 0
@@ -6169,17 +6169,6 @@ MonoBehaviour:
   - {fileID: 11400000, guid: e9ec3ac6d7b6c5441b62b52017b3e2a8, type: 2}
   - {fileID: 11400000, guid: dbcdf48ca7e15384685ce4aace963525, type: 2}
   - {fileID: 11400000, guid: 2ecb5fa3c92281a4a93404b8dcc574ad, type: 2}
-  tileSprites:
-  - {fileID: 21300000, guid: 0fee76c3a804388419e5f6cc0cb6e697, type: 3}
-  - {fileID: 21300000, guid: 8ec9c22c0a1eda848987274e8bb8be43, type: 3}
-  - {fileID: 21300000, guid: 9377df70f659006498856cdff0cd1f13, type: 3}
-  - {fileID: 21300000, guid: 46784b3a5c1690f4a99839d23edc8124, type: 3}
-  - {fileID: 21300000, guid: 3640a057b36638247b2ec08d0cdcef03, type: 3}
-  - {fileID: 21300000, guid: b58448e84f0723d47b690295a59400b3, type: 3}
-  - {fileID: 21300000, guid: 0eb04fcaeff7eea448fc371bbeefe308, type: 3}
-  - {fileID: 21300000, guid: fd20d7be4f1b3214db23cbedb0d2a14c, type: 3}
-  - {fileID: 21300000, guid: a26a7c5c1370219439e4e2db9733e1ae, type: 3}
-  - {fileID: 21300000, guid: 25a561b58374c434b835135a8e1bfb97, type: 3}
   highestElementNum: 4
 --- !u!223 &1668652190
 Canvas:
@@ -6367,7 +6356,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   m_Material: {fileID: 0}
   m_Color: {r: 0.557951, g: 1, b: 0.43867922, a: 0.83137256}
-  m_RaycastTarget: 1
+  m_RaycastTarget: 0
   m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
   m_Maskable: 1
   m_OnCullStateChanged:
@@ -6458,7 +6447,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   m_Material: {fileID: 0}
   m_Color: {r: 0.8490566, g: 0.6047526, b: 0.8085362, a: 0.83137256}
-  m_RaycastTarget: 1
+  m_RaycastTarget: 0
   m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
   m_Maskable: 1
   m_OnCullStateChanged:
