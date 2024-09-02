@@ -1,6 +1,6 @@
 Current bugs...
 - Level 5 next level button not working
-- Infinity try again (easy fix)
+- Infinity try again button
 
 Upcoming Features...
 -  ✅ Fixing Fluorine Sprite (8/11)
