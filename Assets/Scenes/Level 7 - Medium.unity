@@ -765,7 +765,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: 4.
+  m_text: 46. Palladium
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 41c5586de25d05340a4c905cfb730809, type: 2}
   m_sharedMaterial: {fileID: 2128287445655782808, guid: 41c5586de25d05340a4c905cfb730809, type: 2}
@@ -1035,7 +1035,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: 6.
+  m_text: 48. Cadmium
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 41c5586de25d05340a4c905cfb730809, type: 2}
   m_sharedMaterial: {fileID: 2128287445655782808, guid: 41c5586de25d05340a4c905cfb730809, type: 2}
@@ -1295,7 +1295,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!114 &301807181
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -3018,7 +3018,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: 2.
+  m_text: 44. Ruthenium
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 41c5586de25d05340a4c905cfb730809, type: 2}
   m_sharedMaterial: {fileID: 2128287445655782808, guid: 41c5586de25d05340a4c905cfb730809, type: 2}
@@ -3114,7 +3114,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!225 &786796410
 CanvasGroup:
   m_ObjectHideFlags: 0
@@ -3390,7 +3390,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: 7.
+  m_text: 49. Indium
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 41c5586de25d05340a4c905cfb730809, type: 2}
   m_sharedMaterial: {fileID: 2128287445655782808, guid: 41c5586de25d05340a4c905cfb730809, type: 2}
@@ -3996,8 +3996,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 0.00012207031, y: 83.99994}
-  m_SizeDelta: {x: 300, y: 50}
+  m_AnchoredPosition: {x: 4.6, y: 83.99994}
+  m_SizeDelta: {x: 307.68, y: 50}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &941405494
 MonoBehaviour:
@@ -4019,7 +4019,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: '1. '
+  m_text: 43. Technetium
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 41c5586de25d05340a4c905cfb730809, type: 2}
   m_sharedMaterial: {fileID: 2128287445655782808, guid: 41c5586de25d05340a4c905cfb730809, type: 2}
@@ -5123,7 +5123,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: 5.
+  m_text: 47. Silver
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 41c5586de25d05340a4c905cfb730809, type: 2}
   m_sharedMaterial: {fileID: 2128287445655782808, guid: 41c5586de25d05340a4c905cfb730809, type: 2}
@@ -5499,7 +5499,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: 'Level 1 Elements:'
+  m_text: 'Level 7 Elements:'
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 5879d4b8da9a6ce42a52cdfd9933477e, type: 2}
   m_sharedMaterial: {fileID: 1198209488231532167, guid: 5879d4b8da9a6ce42a52cdfd9933477e, type: 2}
@@ -6316,7 +6316,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: 3.
+  m_text: 45. Rhodium
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 41c5586de25d05340a4c905cfb730809, type: 2}
   m_sharedMaterial: {fileID: 2128287445655782808, guid: 41c5586de25d05340a4c905cfb730809, type: 2}
@@ -6426,13 +6426,13 @@ MonoBehaviour:
   gameManager: {fileID: 32324301}
   tilePrefab: {fileID: -7753836400409468237, guid: ef60edd81f3e9394b8229bfd5b2e874a, type: 3}
   tileStates:
-  - {fileID: 11400000, guid: fa2d1fcd35060154eb3a13415bb6ee49, type: 2}
-  - {fileID: 11400000, guid: 073fab79f5fe32e4fa26f199e014ae99, type: 2}
-  - {fileID: 11400000, guid: 1526a0f23d2cbfc4d821c0df15644269, type: 2}
-  - {fileID: 11400000, guid: f18e634985044a041a3c08240d25e331, type: 2}
-  - {fileID: 11400000, guid: 7a65f9cf842f2944d8c45fc0fbfe55ad, type: 2}
-  - {fileID: 11400000, guid: d5b7a7d4842d4084a9bb66832c6d6289, type: 2}
-  - {fileID: 11400000, guid: d5b7a7d4842d4084a9bb66832c6d6289, type: 2}
+  - {fileID: 11400000, guid: 8235d883ca1e21a4cbcf461aedf59a37, type: 2}
+  - {fileID: 11400000, guid: 0518c5431773b8a40bb274aa51c287f6, type: 2}
+  - {fileID: 11400000, guid: fd27bf40b9381f84f9c8f892ba9782f5, type: 2}
+  - {fileID: 11400000, guid: 0e5ff293ae176ee4ca1cbb58cebb0a2b, type: 2}
+  - {fileID: 11400000, guid: 05ac857b0f2621946964402582e4f20e, type: 2}
+  - {fileID: 11400000, guid: ab3970c080442a546bc32edadbc0b63e, type: 2}
+  - {fileID: 11400000, guid: d1f8fdfd6e4166f498c3b1a8e9700b7f, type: 2}
   highestElementNum: 6
 --- !u!223 &1668652190
 Canvas:
