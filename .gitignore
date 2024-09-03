@@ -16,6 +16,8 @@
 
 # Shader cache files
 *.shadercache
+*.shader
+*.cginc
 
 # Recordings can get excessive in size
 /[Rr]ecordings/
