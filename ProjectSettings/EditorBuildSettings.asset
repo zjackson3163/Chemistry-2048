@@ -92,4 +92,52 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Infinity.unity
     guid: 479ae539911e0f04aabf7ec93e527020
+  - enabled: 1
+    path: Assets/Scenes/Level 1 - Medium.unity
+    guid: 14282c8a63abcd14c8cc92742d6e6b26
+  - enabled: 1
+    path: Assets/Scenes/Level 2 - Medium.unity
+    guid: 943e5ab6c7914c94a9056ceffb4c4d40
+  - enabled: 1
+    path: Assets/Scenes/Level 3 - Medium.unity
+    guid: ae6be89483e747841adcbd81a535f0fa
+  - enabled: 1
+    path: Assets/Scenes/Level 4 - Medium.unity
+    guid: b6fc25c38d8ccc044b5d9bf33f92b7f3
+  - enabled: 1
+    path: Assets/Scenes/Level 5 - Medium.unity
+    guid: 06b77e583b9f54943931638893323e70
+  - enabled: 1
+    path: Assets/Scenes/Level 6 - Medium.unity
+    guid: 72eb07d20f5555c46a93e4069859353a
+  - enabled: 1
+    path: Assets/Scenes/Level 7 - Medium.unity
+    guid: d18b95943b0c41449862afa755a16782
+  - enabled: 1
+    path: Assets/Scenes/Level 8 - Medium.unity
+    guid: 421c3cf2360a7c74b9490ccfcb6ab85e
+  - enabled: 1
+    path: Assets/Scenes/Level 9 - Medium.unity
+    guid: b9745cb170a98374f83cb8d2271467f4
+  - enabled: 1
+    path: Assets/Scenes/Level 10 - Medium.unity
+    guid: d33651c2e6fd99d4cbbfbcbd9e67e29d
+  - enabled: 1
+    path: Assets/Scenes/Level 11 - Medium.unity
+    guid: 2a5fcb1137b83ef47a368c8b2922d7e3
+  - enabled: 1
+    path: Assets/Scenes/Level 12 - Medium.unity
+    guid: a9e9f265c9cdd1944ad4ed60a7382a9d
+  - enabled: 1
+    path: Assets/Scenes/Level 13 - Medium.unity
+    guid: 352802a762576f746bed9cae3c548475
+  - enabled: 1
+    path: Assets/Scenes/Level 14 - Medium.unity
+    guid: 65b9965593f36784faae850665984d6c
+  - enabled: 1
+    path: Assets/Scenes/Level 15 - Medium.unity
+    guid: 26dac9b30e00a3a488df65f971bbf803
+  - enabled: 1
+    path: Assets/Scenes/Level 16 - Medium.unity
+    guid: e1414aa8255d6644787f2c01401b9f06
   m_configObjects: {}
