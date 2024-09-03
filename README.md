@@ -15,4 +15,4 @@ Upcoming Features...
 -  16 Medium Levels
 -  10 Hard Levels
 -  ✅ Infinity Level (8/26)
--  Elements web page to see all elements unlocked during gameplay
+-  Elements web page to see all elements and facts about each
